@@ -1,1 +1,1 @@
-worker: python profit_bot.py
+web: python profit_bot_railway.py
